@@ -1,0 +1,13 @@
+heartbeat:
+  apikey: ""
+serial:
+  port: COM5
+  baud: 9600
+hotp:
+  secret: ""
+  length: 8
+  get_api: ""
+  post_api: ""
+  api_failure_lockout_hours: 1
+door:
+  release_time: 0.5
